@@ -1,4 +1,4 @@
-# Kubernetes Minikube Deployment - Task 5
+# Kubernetes Minikube Deployment 
 
 ## Objective
 Build a local Kubernetes cluster using Minikube and deploy a simple application.
